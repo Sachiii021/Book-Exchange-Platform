@@ -1,10 +1,10 @@
 body {
-  background-color: #9aafb0;
+  background-color: #52f0f0;
   font-family: 'Work Sans', sans-serif;
 }
 
 hr {
-  border: 0.2px solid #4a4141;
+  border: 0.2px solid #dd9e9e;
   width: 80vw;
 }
 
@@ -13,12 +13,12 @@ h1 {
   text-align: center;
   font-family: 'Bodoni Moda', serif;
   font-size: 45px;
-  color: #4a4141;
+  color: #dd9e9e;
 }
 
 a {
   text-decoration: none;
-  color: #4a4141;
+  color: #dd9e9e;
 }
 
 /*********************************
@@ -43,13 +43,13 @@ a {
 
 .nav-items a {
   text-decoration: none;
-  color: #4a4141;
+  color: #dd9e9e;
 }
 
 .nav-items a:hover {
   text-decoration: none;
   color: #ebe6dc;
-  text-shadow: 2px 2px 4px #4a4141;
+  text-shadow: 2px 2px 4px #dd9e9e;
 }
 
 /*********************************
